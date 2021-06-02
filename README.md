@@ -16,5 +16,5 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-folders contain
-index, css, images
+## Folders contain
+html, css, images
