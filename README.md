@@ -17,6 +17,4 @@ THEN I find a concise, descriptive title
 ```
 
 folders contain
->index
->css
->images
+index, css, images
