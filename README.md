@@ -1,2 +1,6 @@
 # CodeRefactor
-1sthomework
+1st week homework
+files contain
+index
+css
+images
